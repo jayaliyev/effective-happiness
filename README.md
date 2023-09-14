@@ -1,4 +1,4 @@
-# CS541-Recommender System
+#Collaborative Filtering and Deep Learning-Based Recommender System
 ## Purpose
 This is an initial project of music recommend system, which includes normal and weighted distances algorithms to generate recommendations.
 
